@@ -12,7 +12,16 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 Add code here
-
+```
+try:
+    print(lis[5])
+except:
+    print("You're out of list range")
+```
 ## Output
 
+<img width="712" height="309" alt="image" src="https://github.com/user-attachments/assets/1d0b3c12-310f-4695-9093-fad335b60c26" />
+
+
 ## Result
+Thus,the program executed successfully.
